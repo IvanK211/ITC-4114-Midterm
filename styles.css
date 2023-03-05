@@ -1,0 +1,65 @@
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0.5em;
+}
+
+p {
+ text-align: center;
+}
+
+.add-btn {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background-color: red;
+  color: black;
+  padding: 10px 20px;
+  border: solid;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+img {
+  display: block;
+  height: 40em;
+  width: 40em;
+  margin: 0 auto;
+  max-width: 100%;
+  border: 1em;
+}
+
+footer img {
+  height: 10em;
+  width: 10em;
+}
+
+.carousel-inner {
+outline-style: solid;
+}
